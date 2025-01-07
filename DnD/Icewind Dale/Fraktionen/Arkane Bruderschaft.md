@@ -7,6 +7,7 @@ Die _Arkane Bruderschaft_ war eine geheimnisvolle Händler- und Magiergilde mit 
 
 
 ## Im Eiswindtal
+- [[Nass Lantomir]], [[Dzaan]], [[Vellynne Harpell]], [[Avarice]] sind nach Eiswindtal gekommen um ein magisches Artefakt zu suchen
 
 ## NPCs
 -   **[[Cashaan]]**
@@ -32,5 +33,5 @@ Die _Arkane Bruderschaft_ war eine geheimnisvolle Händler- und Magiergilde mit 
     -   Lehrling von Zelenn the White, eine Divinerin, die in Icewind Dale starb.
 -   **[[Vellynne Harpell]]**    
     -   Nekromantin aus der berühmten Harpell-Familie von Longsaddle.
--   **[[Maccath the Crimson]]**    
+-   **[[Maccath der Kaminrote]]**    
     -   Eine Forscherin, spezialisiert auf Drachen, und ebenfalls Mitglied der Bruderschaft.
