@@ -1,5 +1,5 @@
 # Xyntia
-1. Spieler
+1. [Spieler]
 2. Drachengeborne (Mechanisch)
 	1. ursprünglich ein Mensch
 	2. durch Drachenblut in eine Art Halbdrache verwandelt

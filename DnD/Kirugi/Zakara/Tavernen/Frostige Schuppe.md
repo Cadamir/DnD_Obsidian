@@ -1,0 +1,5 @@
+-   Hafenviertel
+-   von weißen Kobolden aus Icewind Dale betreut
+-   von einem magischen Kreis umgeben, der die Temperatur massiv runderkühlt
+-   beliebt bei Halbmenschen von arktischen Tieren
+-   recht beliebt auch bei Schuppenlosen

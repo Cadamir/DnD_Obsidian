@@ -1,0 +1,5 @@
+-   Hafenviertel
+-   eine sehr kleine Taverne
+-   sehr viele Unterkünfte unter der Erde
+-   beliebt bei Kobold-Gästen
+-   beliebt bei Halbmenschen, die Höhlen-/Grabetieren darstellen

@@ -1,0 +1,5 @@
+- ein Schlagendes Herz
+- wenn in Wasser gelegt -> kleiner Fisch
+- nach einen Tag -> großer Fisch
+- nach drei Tagen -> sehr großer Fisch
+- nach sieben Tagen -> 

@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "712824f8c12721b8",
+        "id": "daca9639d1c328a8",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ba5ce15edc72f00",
@@ -82,12 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "712824f8c12721b8",
+  "active": "daca9639d1c328a8",
   "lastOpenFiles": [
-    "Kirugi/Kirugi.md",
-    "Icewind Dale/Fraktionen/Arkane Bruderschaft.md",
-    "Icewind Dale/00 Icewind Dale Kampagne.md",
-    "Icewind Dale/Charaktere/NPCs/Dzaan.md",
-    "Icewind Dale/Charaktere/Hope.md"
+    "Kirugi/Zakara/Kampfturnier.md",
+    "Kirugi/Zakara/Fest des Brennenden Himmels.md",
+    "Kirugi/Zakara/Tavernen/am großen Hord.md",
+    "Kirugi/Zakara/Tavernen/am Stausee.md",
+    "Kirugi/Zakara/Tavernen/Überblick.md",
+    "Kirugi/Zakara/Tavernen/feine Schuppe.md",
+    "Kirugi/Zakara/Tavernen/Flugtraum.md",
+    "Kirugi/Zakara/Tavernen/Liebesschuppe.md",
+    "Kirugi/Zakara/Tavernen/Feuerhöhle.md",
+    "Kirugi/Zakara/Tavernen/zum Wissenshord.md"
   ]
 }

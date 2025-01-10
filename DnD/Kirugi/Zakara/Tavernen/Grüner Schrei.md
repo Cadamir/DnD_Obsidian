@@ -1,0 +1,5 @@
+-   Hafenviertel
+-   Wird von einem Schlangen-Yokai betreut
+-   Bestellungen und Lieferung durch eine intelligente Pflanze
+-   immer mit leichten Nebel gefüllt
+-   gute Kontake für giftge Zutaten und Drachenglut

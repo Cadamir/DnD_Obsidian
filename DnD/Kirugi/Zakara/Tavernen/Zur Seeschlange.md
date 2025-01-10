@@ -1,0 +1,5 @@
+-   Hafenviertel
+-   wird durch Fischtier-Yokai betreut
+-   beliebt bei Fischtier-Yokais
+-   vollständig mit Wasser gefüllt
+-   Wer möchte, kann sich aber auch in eine Luftblase setzen
