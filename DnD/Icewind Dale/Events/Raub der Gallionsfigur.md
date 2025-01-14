@@ -11,10 +11,11 @@
 
 ## Ablauf
 - 1 Mindmaster und 3 Duerga
-	- Duth Sunblight
-	- Klaska
-	- Ossyl
-	- Zublorr
+	- Duth Sunblight (Mind Master)
+	- Klaska (Duerga Hammerer) 
+	- Ossyl (Alchemist)
+	- Zublorr (Duerga)
+ 	- Defor (Duerga)
 - Einbruch durch den Nordeingang
 - Zerbrechen der Statue mit ihren Waffen
 - Davonschleppen der Sachen (Jeweils 100pf [[Chardylin]])
