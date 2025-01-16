@@ -5,43 +5,27 @@ Das ist eigentlich verboten, aber wird fast nicht verfolgt.
 
 Es hält sich eine Legende, dass einem Schuppen wachsen, wenn man genug Schuppelose tötet. 
 
-> ---
->
-> Unter dem brennenden Himmelszelt,
-> 
-> wo Flammen regnen, Götterwelt,
-> 
-> wird Schuppenlosen das Urteil verkündet,
->
-> wenn Zorn des Schuppenträgers sich gründet.
->
-> Ihr Blut ergießt sich auf die Erde,
->
-> die Feuergabe bringt Geburt der Herde.
->
-> Aus Asche und Glut erstehen die Treuen,
->
-> die Schuppen tragen und Gott sich erfreuen.
->
-> ---
->
-> Doch Hüte dich, wer Zweifel trägt,
->
-> denn der, der rein das Herz bewegt,
->
-> wird keine Ketten des Feuers ertragen,
->
-> kein Leben aus Schuld in Schuppen schlagen.
->
-> Nur wahrer Glaube, nicht bloß ein Begehren,
->
-> kann Schuppen erwecken, das wahre Ehren.
->
-> So prüfe dein Herz, bevor du handelst,
->
-> denn nicht jede Seele wird neu verwandelt.
->
-> ---
+ ---
+
+Unter dem Himmel, der Flammen sprüht,
+wo Schuppengott seinen Zorn versprüht,
+gilt altes Wort, vom Glauben geprägt:
+Das Blut der Schuppenlosen erweckt.
+Wer ihre Leben im Feuer beschneidet,
+und sich im Blute der Opfer badet,
+wird von den Flammen des Himmels erhört,
+und trägt fortan, was der Gott begehrt.
+
+Doch hüte dich, vor falschem Streben,
+denn Schuppen schenkt nur das wahre Leben.
+Das Herz muss brennen, vom Glauben geführt,
+kein kalter Mord wird dich je verziert.
+Im Feuerritual zeigt der Gott sein Gesicht,
+doch nur die Gerechten spüren sein Licht.
+Wer falsch handelt, verbrennt zu Asche allein,
+wird niemals des Gottes Gefährte sein.
+
+---
 
 ## Überfälle
 - passieren immer nur "Nachts"
