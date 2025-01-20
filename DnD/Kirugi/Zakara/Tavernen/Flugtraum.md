@@ -1,2 +1,0 @@
--   Unterhaltungsviertel
--   Drogenhöhle

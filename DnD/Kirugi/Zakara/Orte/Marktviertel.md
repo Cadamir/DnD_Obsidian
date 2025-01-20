@@ -1,0 +1,12 @@
+# Marktviertel Zakaras
+- Sehr belebt
+- Überall Verkaufsstände an den Straßen
+- Herstellungshäuser in zweiter Reihe, oft mit Wohnungen darüber
+- permanenter Lärm
+- Hauptpunkt der [[Gilden Zakaras]]
+- viele mobile Stände
+- Kobold-Stände sind zwei-Etagig, da Kobolde den Verkäufern oft sonst nicht in die Augen schauen können
+- Verkäufer fast nur Schuppige
+- Hersteller oder Bedienstete oft Schuppenlose und schlecht behandelt
+- Man benötigt einen Händlerausweis um zu Handeln
+- Der Königspalast ist immer zu sehen

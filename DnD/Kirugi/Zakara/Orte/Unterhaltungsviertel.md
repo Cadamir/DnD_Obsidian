@@ -1,0 +1,21 @@
+- Zwei-Teilung in Arm und Reich
+	- durch Hang "getrennt"
+- Der Ort an dem die meiste Vermischung zwischen den Kasten ensteht
+- viele Theater/Opernhäuser
+- Koluseum
+	- öffentliche Traingskämpfe der Soldaten
+	- Kampfturniere
+	- Wettrennen
+	- Bestienkämpfe
+- Tavernen
+- Spielhallen
+- Drogenhöllen & Bordelle
+- Badehäuser
+	- [[Reinigung]]
+- Kuriositätenläden/Raritätenläden
+- Straßenkünstler
+- sehr geschmückte Straßen
+	- Figuren von Drachen
+	- Zeichen von Kagetsu überall
+	- Laternen mit bunten Flammen
+

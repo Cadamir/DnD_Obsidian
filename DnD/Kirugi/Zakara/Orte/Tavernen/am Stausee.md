@@ -1,4 +1,4 @@
--   Nobelviertel
+-   [[Nobelviertel]]
 -   nur für sehr hohe Humanoide
 -   100G für eine Nacht
 -   75G für Essen

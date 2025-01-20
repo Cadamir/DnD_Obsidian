@@ -1,0 +1,17 @@
+# Hafenviertel Zakaras
+- Viel Betrieb
+- Sehr kurze Liegezeiten meistens, da viele von verschiedenen Inseln kommen
+- viele kleine Schiffe
+- "Busschiffe" (Fähren) = ÖPNV für verschiedene Inseln
+- Anlegeorte
+	- private klein
+	- privat groß
+	- Handel
+	- Ausladen
+	- Militär
+- viele Tavernen und Inns
+- enge Gassen
+- breite Hauptstraßen
+- Hafengilde verkauft Liegeplatz
+- Man sieht die Spitze des Palastes
+- komplett von Mauern umgeben
