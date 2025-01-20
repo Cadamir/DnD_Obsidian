@@ -41,7 +41,7 @@ Beispielhaft kann man wie folgt Zählen:
 -  2 Becken
 -  1 König
 
-![](https://cdn2.inkarnate.com/WhLHFKBmGKaDYLn49B9zFC)
+![](https://cdn2.inkarnate.com/cdn-cgi/image/width=120,height=160/https://cdn2.inkarnate.com/WhLHFKBmGKaDYLn49B9zFC)
 
 ## Jeeols Bad
 - beim Eintreten/Hinabfallen: DC 16 CHA
@@ -54,10 +54,10 @@ Beispielhaft kann man wie folgt Zählen:
 - alles mit leichten Dampf gehüllt
 - DC 18 Wahrnehmung: im Nebel unsichtbare Gestalten sichtbar
 - Der Spiegel ist ein Portal nach [[Nessus]]
-- 
+- Figuren sind [[Höllengargoyls]] (Wie Shield Guardian)
 
-![](https://cdn2.inkarnate.com/GudZ1KLywWkN1ec7nHzpvb)
+![](https://cdn2.inkarnate.com/cdn-cgi/image/width=120,height=160/https://cdn2.inkarnate.com/GudZ1KLywWkN1ec7nHzpvb)
 das sieht man normaler Weise
 
-![](https://cdn2.inkarnate.com/Wv4qfKfHe2NFyT6P7fw8Uv)
+![](https://cdn2.inkarnate.com/cdn-cgi/image/width=120,height=160/https://cdn2.inkarnate.com/Wv4qfKfHe2NFyT6P7fw8Uv)
 das sieht man, wenn man den Rettungwurf besteht

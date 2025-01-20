@@ -8,6 +8,19 @@
 
 ---
 
+## Informationen
+- Ge ist in [[Flugtraum]]
+- Allgemeine Informationen
+- [[Diebesgilde]]
+	- [[Sang-In]] -  Teppichverkäufer
+	- [[Nawida]] - Schmied
+	- [[Ago und Salam]] - Militärangehöriger und Tochter
+	- [[Milae]] - Wahrsager
+	- [[So-In]] - Magier
+	- [[Tongjeug]] - Entschuppter Drachengeborner Schläger
+
+___
+
 ## Philosophie
 **„Nicht wer mächtig ist, hat Macht, sondern wer die Mächtigen kontrolliert, hat Macht.“**  
 Macht liegt nicht in bloßer Stärke oder Position, sondern in der Fähigkeit, diejenigen zu lenken, die sichtbar an der Spitze stehen. Wahre Kontrolle entsteht durch Einfluss, Manipulation und ein tiefes Verständnis von Machtstrukturen. Der kluge Lenker im Schatten besitzt oft mehr Macht als der Herrscher im Licht.

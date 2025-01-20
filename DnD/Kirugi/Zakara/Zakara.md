@@ -30,7 +30,7 @@
 	- [[Jeeol]] - Anführer und Informationssamler
 	- [[Milae]] - Wahrsager
 	- [[So-In]] - Magier
-	- [[Tongjeug]]
+	- [[Tongjeug]] - Entschuppter Drachengeborner Schläger
 - [[Buja Klan]]
 	- [[Salang Buja]] - Magierlehrling
 	- [[Aboji Buja]] - Handelsgildenmeister
