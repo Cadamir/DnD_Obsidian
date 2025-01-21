@@ -12,7 +12,7 @@
 ___
 **Eröffnungsrede des Königs**
 
-"Volk von [[Zakara]], ehrbare Krieger, tüchtige Handwerker, edle Gelehrte und treue Anhänger unseres glorreichen Reiches! Versammelt an diesem festlichen Tag, an dem wir nicht nur Kagetsu in seiner Pracht und Macht feinern, sondern auch die unaufhaltsame Kraft unseres gemeinsamen Hungers nach Größe!
+"Volk von [[00 Zakara]], ehrbare Krieger, tüchtige Handwerker, edle Gelehrte und treue Anhänger unseres glorreichen Reiches! Versammelt an diesem festlichen Tag, an dem wir nicht nur Kagetsu in seiner Pracht und Macht feinern, sondern auch die unaufhaltsame Kraft unseres gemeinsamen Hungers nach Größe!
 
 Der erste Angriff in den Norden nach Alt-Zakara ist fast bereit. Unsere Krieger, von Hunger nach Ruhm und Eroberung getrieben, rüsten sich, um unsere Fesseln zu sprengen und unser Reich weiter auszudehnen. Der Hunger nach Land, nach Macht, nach Ruhm wird uns leiten und wir werden die Ordnung nach ganz [[Toril]] bringen.
 

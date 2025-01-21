@@ -18,7 +18,9 @@
 	- [[Milae]] - Wahrsager
 	- [[So-In]] - Magier
 	- [[Tongjeug]] - Entschuppter Drachengeborner Schläger
-
+- die [[Wächter der Elemente]]
+	- genauere Infos in der Universität bzw. da gibt es Bilder
+- 
 ___
 
 ## Philosophie
