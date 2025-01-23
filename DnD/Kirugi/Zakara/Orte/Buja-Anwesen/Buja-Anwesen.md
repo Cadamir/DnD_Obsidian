@@ -41,3 +41,12 @@ Hauptsitz des [[Buja Klan]]
 
 ![Level5](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/ace6905f32c6e9a443bf7b046cb3434e.webp)
 - Familienschrein
+
+![Hord](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/8538465ebc7094242b3cd1ad69e64384.webp)
+- durch den verdeckten Raum im Level 1
+- Zauber "Meld with stone" o.ä. notwendig
+
+![Eingang](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/cdb76357d8d2cc45488fc5c0d297635a.webp)
+- kommt vor Hord
+
+![Verteidigung](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/b279f7f72586b0f183570f1495571535.webp)
