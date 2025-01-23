@@ -27,9 +27,17 @@ Hauptsitz des [[Buja Klan]]
 
 
 ![Level2](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/3bca5f2496419cb2c2cf66ccaf9e191c.webp)
+- großer Flur
+- kleiner Speiseraum
+- großer Speiseraum
+- private Gemächer
 
 ![Level3](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/5e4b4b195b5d7c7ef7f4a43e2b0a922c.webp)
+- Badezimmer
+- Schkafgemächer
 
 ![Level4](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/e63c0c649de95248b4a6b40c664041e4.webp)
+- Planungsraum
 
 ![Level5](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/ace6905f32c6e9a443bf7b046cb3434e.webp)
+- Familienschrein
