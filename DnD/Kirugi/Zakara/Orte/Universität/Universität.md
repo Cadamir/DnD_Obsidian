@@ -187,8 +187,15 @@ Die Aula wirkt feierlich und erhaben, fast schon heilig. Wenn man eintritt, spü
 
 Die Aula ist ein Ort, der Tradition und Innovation verbindet, ein Symbol für die Größe und Verantwortung der magischen Gemeinschaft. Sie erinnert jeden Besucher daran, dass Wissen und Macht stets mit Weisheit und Verantwortung einhergehen sollten.
 
- 
-
+### Keller
+![](https://github.com/Cadamir/DnD_Obsidian/blob/main/DnD/Kirugi/Zakara/Orte/Universit%C3%A4t/Uni-Keller.png?raw=true)
+- Büro-Räume für Dozenten
+- Wächterraum für Schild-Wächter zur Wache
+- Wachenumkleide für
+  - [[Eis-Magier]]
+  - [[Magier Kobold]]
+- Schutzrunen
+- Kontrolle der Person durch magisches Objekt
 
 ### Grundfunktion
 
