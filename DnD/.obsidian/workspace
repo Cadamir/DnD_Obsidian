@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "daca9639d1c328a8",
+        "id": "5d48d237ba424d74",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zwischennotizen.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fdaca3172cf21d9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kirugi/Zakara/Events/Fakellauf.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "noble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1ba5ce15edc72f00",
@@ -66,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zwischennotizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "daca9639d1c328a8",
+  "active": "5d48d237ba424d74",
   "lastOpenFiles": [
-    "Kirugi/Zakara/Kampfturnier.md",
+    "Zwischennotizen.md",
+    "Kirugi/Zakara/Events/Fakellauf.md",
+    "Kirugi/Zakara/Events/große Aufführung.md",
     "Kirugi/Zakara/Fest des Brennenden Himmels.md",
-    "Kirugi/Zakara/Tavernen/am großen Hord.md",
-    "Kirugi/Zakara/Tavernen/am Stausee.md",
-    "Kirugi/Zakara/Tavernen/Überblick.md",
-    "Kirugi/Zakara/Tavernen/feine Schuppe.md",
-    "Kirugi/Zakara/Tavernen/Flugtraum.md",
-    "Kirugi/Zakara/Tavernen/Liebesschuppe.md",
-    "Kirugi/Zakara/Tavernen/Feuerhöhle.md",
-    "Kirugi/Zakara/Tavernen/zum Wissenshord.md"
+    "Monster/Höllengargoyls.md",
+    "Kirugi/Zakara/Events/Saufturnier.md",
+    "Kirugi/Zakara/Events/Stadtturnier.md",
+    "Kirugi/Zakara/Orte/Universität/Universität.md",
+    "Kirugi/Zakara/Orte/Tavernen/Flugtraum.md",
+    "Kirugi/Zakara/Fraktionen/Drachentöter.md"
   ]
 }

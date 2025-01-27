@@ -1,7 +1,0 @@
-# Drachenglut
-
-## Rot
-
-## Blau
-
-## Grün
