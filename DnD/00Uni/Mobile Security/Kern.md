@@ -1,0 +1,3 @@
+# Grundlagen
+- [[Smartphone]]
+- 

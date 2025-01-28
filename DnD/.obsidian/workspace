@@ -4,26 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5d48d237ba424d74",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zwischennotizen.md",
-            "mode": "source"
+        "id": "2d5cac00e1ed07df",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd19f2d393f31f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zwischennotizen.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3641ab17f196217c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Uni/Mobile Security/Mobile_Security.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "fdaca3172cf21d9a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Kirugi/Zakara/Events/Fakellauf.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zwischennotizen.md",
+                "file": "00Uni/Mobile Security/Mobile_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d48d237ba424d74",
+  "active": "3641ab17f196217c",
   "lastOpenFiles": [
+    "00Uni/Mobile Security/Mobile_Security.md",
+    "00Uni/Mobile Security/TODO.md",
+    "00Uni/Mobile Security/Drozer.md",
     "Zwischennotizen.md",
-    "Kirugi/Zakara/Events/Fakellauf.md",
-    "Kirugi/Zakara/Events/große Aufführung.md",
-    "Kirugi/Zakara/Fest des Brennenden Himmels.md",
-    "Monster/Höllengargoyls.md",
-    "Kirugi/Zakara/Events/Saufturnier.md",
-    "Kirugi/Zakara/Events/Stadtturnier.md",
-    "Kirugi/Zakara/Orte/Universität/Universität.md",
-    "Kirugi/Zakara/Orte/Tavernen/Flugtraum.md",
-    "Kirugi/Zakara/Fraktionen/Drachentöter.md"
+    "00Uni/Mobile Security/Überwachung.md",
+    "00Uni/Mobile Security/Zusammenfassung.md",
+    "00Uni/Mobile Security/Android.md",
+    "00Uni/Mobile Security/CuckooDroid.md",
+    "00Uni/Mobile Security/DroidBox.md",
+    "00Uni/Mobile Security/iOS.md"
   ]
 }

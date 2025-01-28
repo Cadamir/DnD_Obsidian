@@ -1,0 +1,15 @@
+- 1 Jahr alt
+- SourceCode: github.com/WithSecureLabs/drozer
+- Download: labs.withsecure.com/tools/drozer
+	- oder `pip install drozer`
+	- `export ANDROID_SDK=/home/drozerUser/Android/Sdk/platforms/android-34/android.jar`
+	- `adb install drozer-agent.apk`
+- Nutzung: `drozer console connect --server <phone IP>`
+- Voraussetzungen:
+	- Pytghon3.8
+	- Protobuf
+	- Pyopenssel
+	- Twisted
+	- Distro
+	- JDK11
+- 

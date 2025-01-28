@@ -1,0 +1,13 @@
+- Software-Komponenten die zwischen Hardware und Anwendungen liegt
+- vom Hersteller mitgeliefert
+- Grundprinzipien:
+    - Isolierung der Programme
+		- Sandbox
+		- Kommunikation nur über IPC 
+			- Interprozesskommunikation
+    - Zugriffskontrollmodell
+		- Enge Zusammenarbeit von IPC mit Refrence Monitor
+		- nur bei korrekter Berechtigung darf IPC verwendet werden
+    - digital signierte Programme
+		-  eindeutig erkennbar
+		-  unverändert

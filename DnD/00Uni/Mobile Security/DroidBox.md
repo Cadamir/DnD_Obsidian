@@ -1,0 +1,13 @@
+- 13 Jahre alt
+- dynamsiche Analyse von Android-Apps
+- Aufzeichnen von
+	- Hashes für Pakete
+	- Netzwerk-Daten
+	- Schreib-und-Lese-Operationen
+	- Service und geladene Klassen
+	- umgangene Berechtigungen
+	- Informationsabfluss durch Netzwerk, Dateien oder SMS
+	- Verschlüsselungsoperationen durch Android API
+	- Auflistung der Broadcast-Empfänger
+	- Gesendete SMS und Telefon-Anrufe
+- Download: github.com/pjlantz/droidbox

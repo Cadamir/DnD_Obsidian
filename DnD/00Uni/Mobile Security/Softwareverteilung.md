@@ -1,0 +1,18 @@
+- Vertraunswürdigkeit des Herstellers
+- Sicherheit von Software
+	- Kontrolle von offensichtliche Schwachstellen
+	- Kontrolle von offensichtlichen bösartigen Code
+- Kontrolle der Zugriffsrechte für die Software ([[Reference Monitor]])
+    - App fragt Zugriffsrecht beim Nutzer an
+    - Nutzer kann über die Rechtevergabe entscheiden
+    - normale Nutzer überfordert -> Vereinfachung Zugriffsrechte -> Zusammenfassen ähnlicher Rechte
+		- zB. SMS schreiben und lesen sind verschiedene Rechte, werden aber zusammengefasst
+    - Abstraktion
+		- verständlich
+		- korrekte Rechte hinter Abstraktion
+    - Änderung nur durch Nutzer, nicht durch Software
+- Laufzeitumgebungen
+    - Virtuelle Maschienen für die einzelnen Anwendungen
+    - eigener Adressraum (und auch nur Zugriff darauf)
+    - Daten auf Hardware verschlüsselt (zentral gesteuert durch Systemaufrufe)
+    - VPN für Netzwerkkommunikation
