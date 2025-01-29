@@ -2,7 +2,7 @@
 > Ihr kommt in einer Schlucht an mit unendlichen hohen Wänden.
 > Sie ist ungefähr 12m breit und unendlich lang.
 > Von diesen Wänden fließt Lava hinab und bildet einige kleine Flüsse und Teiche. 
-> Hinter euch ist das Portal weiter offen.
+> Hinter euch ist das Portal geschlossen.
 > Ihr seid inmitten einer Schlacht zwischen Dämonen und Teufel.
 > Es sind niedere Unholde, aber ihre Zahl darf nicht unterschätzt werden.
 > Inmitten dieser Schlacht ist ein großer, 9x9x9m Käfig mit einer leuchtenden Rune von Avernus eingesperrt.
