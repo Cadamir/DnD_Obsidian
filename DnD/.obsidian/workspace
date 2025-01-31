@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5cac00e1ed07df",
-        "type": "split",
-        "children": [
-          {
-            "id": "dd19f2d393f31f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zwischennotizen.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3641ab17f196217c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Uni/Mobile Security/Mobile_Security.md",
-                "mode": "source"
-              }
-            }
+        "id": "dd19f2d393f31f38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kirugi/Zakara/Events/Segen Sardior.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -57,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noble",
+                "query": "segen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00Uni/Mobile Security/Mobile_Security.md",
+                "file": "Kirugi/Zakara/Events/Segen Sardior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3641ab17f196217c",
+  "active": "dd19f2d393f31f38",
   "lastOpenFiles": [
+    "Kirugi/Zakara/Events/Segen Sardior.md",
     "00Uni/Mobile Security/Mobile_Security.md",
+    "Kirugi/Zakara/Orte/Verlassene Gruft/Eingang.md",
+    "Kirugi/Zakara/Orte/Verlassene Gruft/Raum der 9 Prüfungen.md",
+    "Zwischennotizen.md",
     "00Uni/Mobile Security/TODO.md",
     "00Uni/Mobile Security/Drozer.md",
-    "Zwischennotizen.md",
     "00Uni/Mobile Security/Überwachung.md",
     "00Uni/Mobile Security/Zusammenfassung.md",
-    "00Uni/Mobile Security/Android.md",
-    "00Uni/Mobile Security/CuckooDroid.md",
-    "00Uni/Mobile Security/DroidBox.md",
-    "00Uni/Mobile Security/iOS.md"
+    "00Uni/Mobile Security/Android.md"
   ]
 }
