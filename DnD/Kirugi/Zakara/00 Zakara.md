@@ -13,6 +13,18 @@
 - [[Marktviertel]]
 - [[Bildungsviertel]]
 
+|Start|Ziel|Dauer|
+|-|-|-|
+|Tempel|Hafen|ca. 2h|
+|Tempel|Nobel|ca. 15min|
+|Nobel|Unterhalbung|ca. 30min|
+|Nobel|Bildung|ca. 15min|
+|Nobel|zentraler Markt|45min|
+|zentraler Markt|Hafen|45min|
+|Bildung|zentraler Markt|15min|
+|Armenviertel|zentraler Markt|30min|
+|zentraler Markt|südlicher Markt|15min|
+
 ## Fraktionen
 
 - [[Militär Zakaras]]
@@ -30,7 +42,6 @@
 	- [[Jeeol]] - Anführer und Informationssamler
 	- [[Milae]] - Wahrsager
 	- [[So-In]] - Magier
-	- [[Tongjeug]] - Entschuppter Drachengeborner Schläger
 - [[Buja Klan]]
 	- [[Salang Buja]] - Magierlehrling
 	- [[Aboji Buja]] - Handelsgildenmeister
@@ -75,7 +86,7 @@
 	
 
 ## Fest des Brennenden Himmels
-[[Fest des Brennenden Himmels]]
+![[Fest des Brennenden Himmels]]
 
 ## Sonstige Events
 - [[Einbruch bei Buja]]

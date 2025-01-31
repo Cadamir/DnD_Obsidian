@@ -1,7 +1,10 @@
 # Ge
 
 ## Werte
-
+- alle sind gleichviel wert
+- es sollte keine Hierachie geben
+- Alle sollen in Harmonie leben
+- Helfen, helfen, helfen, und auch mal einen Heben
 
 ## Informationen
 ### Über Kagetsu

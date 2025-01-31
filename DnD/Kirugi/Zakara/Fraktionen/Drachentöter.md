@@ -1,6 +1,6 @@
 # Drachentöter
 ## Charaktere
-- [[Ge]]
-- [[Saeu]]
-- [[Am]]
+![[Ge]]
+![[Saeu]]
+![[Am]]
 
