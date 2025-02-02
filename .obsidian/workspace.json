@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "a4838bf0726c7f32",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3e41b0ba691929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3ae5392c7d5a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Phlegetos-Prüfung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phlegetos-Prüfung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a14a5af36956db19",
+    "type": "split",
+    "children": [
+      {
+        "id": "464fb8ab7ed35845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4228e097740c78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2484f1381c0cfc20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "223b107e846dba5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dee3952186cbf3d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2922503865feac97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b97a8d1809cc57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Phlegetos-Prüfung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Phlegetos-Prüfung"
+            }
+          },
+          {
+            "id": "cd4804ec7491f48d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Phlegetos-Prüfung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Phlegetos-Prüfung"
+            }
+          },
+          {
+            "id": "340c2f8c318b707b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7fed4ee1bfb9a237",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Phlegetos-Prüfung.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Phlegetos-Prüfung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc3ae5392c7d5a9e",
+  "lastOpenFiles": [
+    "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Minauros-Prüfung.md",
+    "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Phlegetos-Prüfung.md",
+    "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Dis-Prüfung.md",
+    "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Avernus-Prüfung.md"
+  ]
+}
