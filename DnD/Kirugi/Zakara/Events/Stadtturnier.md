@@ -39,3 +39,7 @@ Die Summe aller Champion-Würfe wird summiert
 - 200 - Top 4
 -  Wenn unter den Top 4: jeder darf 1d4 werfen -> wenn eine 1 dabei ist: Platz 1
 -  220 - ERSTER PLATZ!!!!
+
+## Belohnung
+- Ein Uhrwerkamulett pro Person im Team
+- Ein Verstärkeramulett für das Team
