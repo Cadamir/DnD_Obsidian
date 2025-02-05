@@ -1,6 +1,7 @@
 # Malboge
 
 > Ihr seid auf einer schrägen Ebene.
+> Euer eigenes Gewicht lastet schwer auf euren Schultern.
 > Der Boden besteht aus riesigen schwarzen Quardern, die waklig auf dem Boden ligen
 > Auf der Spitze steht ein Thron mit einer Gestalt. 
 > Die Gestalt wirkt gelangweilt und ließt ein Buch.
@@ -9,7 +10,8 @@
 
 ## Regeln
 - Strecke: 45m
-- Für alle 6m Bewegung: DEX-Save DC 15: Lawine ausgelöst (4d6 Wuchtschaden und wieder an den Anfang gespült)
+- Etwas aufheben oder fliegen: STR (Athletic) DC 16
+- Am Ende einer Runde: DEX-Save DC 15: Lawine ausgelöst (4d6 Wuchtschaden und 9m zurückgespült)
 - Bei Zwanghafter Bewegung: DEX-Save wie oben
 - ohne Käfig:
 	- Der Avatar löst Erdbeben aus
