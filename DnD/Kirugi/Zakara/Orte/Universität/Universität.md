@@ -196,6 +196,11 @@ Die Aula ist ein Ort, der Tradition und Innovation verbindet, ein Symbol für di
   - [[Magier Kobold]]
 - Schutzrunen
 - Kontrolle der Person durch magisches Objekt
+- Im Magiezoologieraum: 
+	- einige Präperate
+	- einige Aufzeichnungen vom letzen Unterrichten
+	- alles verstaubt
+	- Hinter einen Wandteppich: Geheimtür zum [[Magiezoologie-Dungeon]]
 
 ### Grundfunktion
 

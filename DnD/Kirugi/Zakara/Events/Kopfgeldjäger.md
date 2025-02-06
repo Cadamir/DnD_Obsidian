@@ -21,7 +21,7 @@
 - **Senses** : Darkvision
 
 ##### Merkmale
-- **Blood Curse of Binding (1/day)** : Bonusaktion, ein Ziel in 9m. DC 14 STR: Speed = 0, keine Reaktionen, Wiederholung am Ende des Zuges
+
 - **Blood Frenzy** : Vorteil gegen verletzte Kreaturen
 - **Innate Spellcasting (1/day)** : Zauber: *Hex*
 - **Magic Resistance** : Vorteil gegen Rettungswürfe durch magische Effekte
@@ -31,6 +31,7 @@
 - **Katana** : +8, 10 (1d8+5) Hieb + 3 (1d6) Nekrotisch
 - **Misty Step (Aufladen 5-6)** : Misty Step
 - **Summon Blood Elemental** : Wenn einmal mit Katana getroffen wurde, Wasserelementar beschwören (zusätzliche Nekrotische Resistenz, alignment neutral böse)
+- **Blood Curse of Binding (1/day, BA)** : ein Ziel in 9m. DC 14 STR: Speed = 0, keine Reaktionen, Wiederholung am Ende des Zuges
 
 ##### Loot
 - Xibalban Blade

@@ -1,4 +1,5 @@
-# Endzeitpunkt: Vormittag 2
+# Endzeitpunkt: 
+- Vormittag 2
 
 # Ablauf
 1. Aufbruch mit Ge zum Sardior-Tempel

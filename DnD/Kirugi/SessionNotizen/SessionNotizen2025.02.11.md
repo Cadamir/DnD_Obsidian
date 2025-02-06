@@ -5,7 +5,7 @@
 
 # Events durch mich
 - [[Geldraub]] Encounter von 3 Dodomeki und Kopfgeldjäger, wenn sie mal alleine sind
-- [[
+- ab Mittag3: [[Kop)fgeldjäger]]
 
 # Mögliche Events durch Spieler
 - [[Höllenprüfungen]]

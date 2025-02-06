@@ -29,33 +29,6 @@ Nur wenn man etwas wahrlich selbstlos Gutes tut, verliert man eine Stufe Korrupt
 |Phlegetos|10d8+20|Du kannst ein Irrlicht als Aktion beschwören, dass dir untersteht. Du kannst dies einmal pro langer Rast durchführen.
 |Stygia|10d8|Du hast +2 auf Heimlichkeit
 |Malbolge|10d8-10|Du wirst nicht mehr durch schwieriges, nicht-magisches Gelände behindert
-|Maladomini|10d8+20|
-|Cania|10d8-20|
-|Nessus|10d12+50|
-
-## Avernus
-- Heeresmeister
-
-## Dis
-- Flammender Nebel
-
-## Minenaros
-- Sumpfmonster
-
-## Phlegetos
-- Feuer, Feuer überall, und Irrlichter
-
-## Stygia
-- kalte Isolation
-
-## Malbolge
-- Schiefe Ebene mit großen Steinen und Lawinen
-
-## Maladomini
-- ehemalige Druidenwelt und am Sterben
-
-## Cania
-- Gletscher der Magie
-
-## Nessus
-- der König
+|Maladomini|10d8+20|Du erhältst einen neuen Nahkampfangriff (STR/DEX + ÜB, 1d4+STR/DEX nekrotischer Schaden, du heilst dich um den verursachten Schaden)
+|Cania|10d8-20|Du wählst einen Zauber des 1. Grades. Du kannst ihn auf niedrigsten ohne Zauberplatz wirken
+|Nessus|10d12+50|Du kannst einer Kreatur eine Lüge sagen. Wenn sie diese Lüge glaubt (Motiv-Erkennen vs Täuschen) wird diese Lüge für diese Kreatur war. Du kannst dies Übungsbonus pro lange Rast machen.
