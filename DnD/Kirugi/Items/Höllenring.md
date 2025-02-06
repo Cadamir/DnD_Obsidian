@@ -21,15 +21,15 @@ Nur wenn man etwas wahrlich selbstlos Gutes tut, verliert man eine Stufe Korrupt
 |Große Hörner wachsen aus dem Kopf, der Körper wird grotesk und entstellt. Sterbliche flühlen sich in deiner Gegenward unwohl|Bei langen Rasten regeneriert er nur die Hälfte der Trefferpunkte, außer man befindet sich in den 9 Höllen|
 |Du verwandelst dich entgültig in einen Lemure.|Der PC wird ein NPC (Lemure) auf der Ebene der Hölle, die als letzes aktiviert wurde.|
 
-|Hölle|TP|
-|-|-|
-|Avernus|10d8+30|
-|Dis|10d8-10|
-|Minaruros|10d8+50|
-|Phlegetos|10d8+20|
-|Stygia|10d8|
-|Malbolge|10d8-10
-|Maladomini|10d8+20
+|Hölle|TP|Passiver Effekt|
+|-|-|-|
+|Avernus|10d8+30|Von dir kontrollierte Kreaturen können deinen Übungsbonus nutzen statt ihren eigenen
+|Dis|10d8-10|Du kannst als Reaktion einen Waffenfernangriff mit dich als Ziel Nachteil geben
+|Minaruros|10d8+50|Du kannst Gold gegen Gegenstände tauschen. Gewöhnliche und ungewöhnliche Gegenstände kannst du so heraufbeschwören. Du sprichst, was du haben willst, bezahlst den doppelten Preis und erhältst den Gegenstand.
+|Phlegetos|10d8+20|Du kannst ein Irrlicht als Aktion beschwören, dass dir untersteht. Du kannst dies einmal pro langer Rast durchführen.
+|Stygia|10d8|Du hast +2 auf Heimlichkeit
+|Malbolge|10d8-10|Du wirst nicht mehr durch schwieriges, nicht-magisches Gelände behindert
+|Maladomini|10d8+20|
 |Cania|10d8-20|
 |Nessus|10d12+50|
 
