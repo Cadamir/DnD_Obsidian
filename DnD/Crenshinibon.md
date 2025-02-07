@@ -1,0 +1,4 @@
+- mächtiges magisches Artefakt
+- kann durch Sonnenenergie Magie wirken kann
+- kann auch ohne Sonnenenergie etwas Magie wirken, aber nicht so mächtig
+- wird als Antrieb für den Hunderfüßler verwendet

@@ -132,14 +132,10 @@
 
 
 
-
-\page
-
-
 ## Lair
 
-- fliegende Inseln
-- Verschiedene Ebenen
+- fliegende Inseln mit fliegenden Element-Blasen
+- Verschiedene Höhenebenen
 - eine große Zikorat (Pyramide) auf einer Pyramide
   - 27m Breite
   - Einzelstufe 3m höhe
@@ -147,6 +143,9 @@
 - eine Insel mit Altar und 5 Säulen
   - Wenn auf dieser Insel alle 5 Elemente waren -> Zikorat öffnet sich -> **Hord freilegen**
 - Inselspirale, die nach oben führt
+- Eine Insel mit einem großen See
+- Eine Insel mit einem Säure-Wasserfall
+- eine Insel, aus der giftiges Gas austritt
 - ein paar weiter Inseln
 - Kagetsu kann die Inseln einfach verschieben, wenn er dagegen fliegt
 - Inseln verschieben:

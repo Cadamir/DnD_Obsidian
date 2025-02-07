@@ -9,11 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kirugi/Zakara/Orte/Universität/Universität.md",
+            "file": "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
             "mode": "source"
           }
-        },
-        "group": "fd75586a6f08804a"
+        }
       },
       {
         "id": "c99c1b3f18041fbf",
@@ -21,11 +20,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kirugi/Zakara/Orte/Universität/Universität.md",
-            "mode": "source"
+            "file": "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+            "mode": "preview"
           }
-        },
-        "group": "fd75586a6f08804a"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kaget",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirugi/Zakara/Orte/Universität/Universität.md",
+                "file": "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +100,15 @@
   },
   "active": "be3bb1bf88417d9e",
   "lastOpenFiles": [
+    "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+    "Kirugi/Zakara/Characters/Kagetsu.md",
+    "Kirugi/Zakara/00 Zakara.md",
+    "Crenshinibon.md",
     "Kirugi/Zakara/Orte/Universität/Universität.md",
     "Kirugi/Zakara/Orte/Universität/Uni-Keller.png",
     "Kirugi/Zakara/Orte/Universität/Magiezoologie-Dungeon.md",
     "Kirugi/Zakara/Orte/Universität/Magiezoologie-Forschungsraum.png",
     "Sang-In.md",
-    "Kirugi/Zakara/Characters/NPCs/Yoenghon.md",
-    "Kirugi/Zakara/00 Zakara.md",
-    "Kirugi/Zakara/Characters/NPCs/Nawida.md",
-    "Kirugi/Items/Wyvernwing.md",
-    "Kirugi/Items/Sky Anchor.md"
+    "Kirugi/Zakara/Characters/NPCs/Yoenghon.md"
   ]
 }
