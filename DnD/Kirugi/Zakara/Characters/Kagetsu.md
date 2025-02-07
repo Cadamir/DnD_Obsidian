@@ -153,3 +153,21 @@
   - kleine Inseln STR DC 20
   - mittlere Inseln STR: DC 30
   - große Insel STR: DC 50
+
+## Hort
+
+- überall liegen Juwelen und Gold
+- ein kleines Labyrith ist in der Zikkorat
+
+| Nr. | Gegenstandstyp              | Beschreibung                                                                                                                                   | Ungefährer Wert  |
+|-----|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| 1   | Goldmünzenstapel            | Ein gigantischer Stapel fein geprägter Münzen aus verschiedenen Epochen, sorgsam gestapelt in einem geheimen Tresorraum.                          | ca. 100.000 gp   |
+| 2   | Goldbarren                  | Massive, in uralten Runen gravierte Goldbarren, die sowohl Reinheit als auch eine schützende Magie ausstrahlen.                                  | ca. 200.000 gp   |
+| 3   | Goldstatuen                 | Detaillierte, kunstvoll gearbeitete Statuen in Form von Drachen oder vergessenen Göttern – Symbole vergangener Herrlichkeiten.                     | ca. 250.000 gp   |
+| 4   | Edelsteinbesetztes Diadem   | Ein prachtvolles Diadem aus purem Gold, verziert mit seltenen Edelsteinen und mystischen Symbolen, einst getragen von einer alten Herrscherin.     | ca. 150.000 gp   |
+| 5   | Verzaubertes Goldzepter     | Ein prunkvolles Zepter, das als Schlüssel zu verborgenen magischen Kräften dient – ein Symbol königlicher Macht und zugleich ein mächtiger Fokus. | ca. 180.000 gp   |
+| 6   | Dracheninsignien            | Relikte, die einst von mächtigen Drachenkönigen getragen wurden – etwa Ringe, Amulette oder Medaillons, durchdrungen von uralter Magie.         | ca. 300.000 gp   |
+| 7   | Goldene Rüstungsteile       | Fragmentierte Rüstungselemente aus massivem Gold, die in alten Legenden als gesegnet galten und von legendären Kriegern getragen wurden.         | ca. 220.000 gp   |
+| 8   | Runenverzierte Goldbarren   | Besonders edle Goldbarren, mit magischen Runen versehen, die nicht nur den materiellen, sondern auch den mystischen Wert erhöhen.                  | ca. 400.000 gp   |
+| 9   | Goldene Tempelschriftrollen | Alte, in Gold eingeschriebene Schriftrollen, die geheime Rituale, uraltes Wissen und verbotene Magie in sich tragen.                              | ca. 130.000 gp   |
+| 10  | Magische Goldjuwelen        | Selten gefertigte Juwelen, meisterhaft in Gold eingefasst und mit magischen Eigenschaften versehen – sie funkeln als sei in ihnen lebendige Magie.| ca. 270.000 gp   |
