@@ -1,0 +1,22 @@
+# Herabsteigender Drache
+- +3 auf Angriffe und Schaden
+- Sardior
+    - Mittig: hält die Konzentration für einen Zauber (Normal Konzentration brechen möglich, bei zwei Konzentrationszaubern: Zwei Konzentrationschecks). Stellt einen Zauberplatz wieder her
+    - Außen: fügt 3d10 psychischen Schaden zu. 1x pro kurze Rast als Aktion: Kegel 4,5m: INT -> stunned
+- Tiamat
+    - Mittig: Resistenz gegen die draconischen Elemente
+    - Außen: 5d6 Schaden der draconischen Elemente, 1x pro kurze Rast: 5-fach Angriff, wobei jeder Angriff nur ein Element als Schaden zufügt
+- Bahamut
+    - Mittig: +2 Rüstungsklasse und Rettungswürfe, Übungsbonus pro Tag: healing words
+    - Außen: 3d10 gleißender Schaden oder 3d10 Heilung, 4x pro kurze Rast als Bonusaktion: Du kannst ein gleißenden Schild erschaffen in 9m um dich herum erschaffen, welches Deckung erzeugt. Du kannst dich immer von Schild zu Schild teleportieren, was jeweils 1,5m Bewegung verbraucht. Verbündete können dies auch. 
+- 3 Minor Beneficial Properties
+    - While attuned to the artifact, you can use an action to cast knock from it. After you cast the spell, roll a d6. On a roll of 1–5, you can’t cast it again until the next dawn.
+    - While attuned to the artifact, you are immune to disease.
+    - While attuned to the artifact, you can use an action to cast chromatic orb from it. After you cast the spell, roll a d6. On a roll of 1–5, you can’t cast it again until the next dawn.
+- 1 Major Beneficial Properties
+    - While attuned to the artifact, one of your ability scores (your choice) increases by 2, to a maximum of 24.
+- 3 Minor Detrimental Properties
+    - While attuned to the artifact, you have disadvantage on saving throws against spells.
+    - While attuned to the artifact, you can’t smell.
+    - While attuned to the artifact, you must eat and drink six times the normal amount each day.
+    - Die negativen Effekte können durch Remove Curse entfernt werden auf dem 8. Level
