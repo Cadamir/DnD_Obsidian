@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Phlegetos-Prüfung.md",
+                "file": "DnD/Kirugi/SessionNotizen/SessionNotizen2025.02.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phlegetos-Prüfung"
+              "title": "SessionNotizen2025.02.11"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,8 +165,16 @@
   },
   "active": "dc3ae5392c7d5a9e",
   "lastOpenFiles": [
+    "DnD/Kirugi/Zakara/Orte/Universität/Magiezoologie-Dungeon.md",
+    "DnD/Kirugi/Zakara/Orte/Universität/Uni-Keller.png",
+    "DnD/Kirugi/Zakara/Orte/Universität/Universität.md",
+    "DnD/Kirugi/Zakara/Fest des Brennenden Himmels.md",
+    "DnD/Kirugi/Kirugi.md",
+    "DnD/Kirugi/SessionNotizen/SessionNotizen2025.02.11.md",
     "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Minauros-Prüfung.md",
+    "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Stygia-Prüfung.md",
     "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Phlegetos-Prüfung.md",
+    "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Nessus-Prüfung.md",
     "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Dis-Prüfung.md",
     "DnD/Kirugi/Zakara/Events/Höllenprüfungen/Avernus-Prüfung.md"
   ]

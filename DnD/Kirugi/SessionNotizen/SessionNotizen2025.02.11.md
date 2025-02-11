@@ -12,3 +12,5 @@
 - [[Gong-Gang]] Schuprig's Schriftrolle stehlen
 
 # Das ist passiert
+- Treffen mit Salang
+- Einbrechen im [[Magiezoologie-Dungeon]] -> Wespennest
