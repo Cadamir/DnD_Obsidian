@@ -46,3 +46,4 @@
 - hat sich wieder Feinde geschaffen, als er zuletzt betrunken über Kagetsu geschimpft hat
 - wird regelmäßig von den Priestern verfolgt, da sie ihn als Ketzer sehen
 
+![[DrachetöterBuch]]

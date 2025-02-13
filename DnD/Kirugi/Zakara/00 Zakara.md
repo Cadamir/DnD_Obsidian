@@ -36,7 +36,7 @@
 		- [[Kobold-Reiter]]
 		- [[Zakara-Wächter]]
 - [[Diebesgilde]]
-	- [[Sadnd danger for dragon hoardng-In]] -  Teppichverkäufer
+	- [[Sang-In]] -  Teppichverkäufer
 	- [[Nawida]] - Schmied
 	- [[Ago und Salam]] - Militärangehöriger und Tochter
 	- [[Jeeol]] - Anführer und Informationssamler

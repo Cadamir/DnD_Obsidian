@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+            "file": "DrachetöterBuch.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "c99c1b3f18041fbf",
+        "id": "c6f369b916bc3d3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+            "file": "DrachetöterBuch.md",
             "mode": "preview"
           }
         }
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+                "file": "DrachetöterBuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "be3bb1bf88417d9e",
   "lastOpenFiles": [
-    "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+    "DrachetöterBuch.md",
+    "Kirugi/Zakara/Fest des Brennenden Himmels.md",
+    "Kirugi/Zakara/Characters/NPCs/Ge.md",
     "Kirugi/Zakara/Characters/Kagetsu.md",
+    "Kirugi/Zakara/Events/Höllenprüfungen/Minauros-Prüfung.md",
     "Kirugi/Zakara/00 Zakara.md",
+    "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+    "Kirugi/Zakara/Events/Höllenprüfungen/Nessus-Prüfung.md",
     "Crenshinibon.md",
-    "Kirugi/Zakara/Orte/Universität/Universität.md",
-    "Kirugi/Zakara/Orte/Universität/Uni-Keller.png",
-    "Kirugi/Zakara/Orte/Universität/Magiezoologie-Dungeon.md",
-    "Kirugi/Zakara/Orte/Universität/Magiezoologie-Forschungsraum.png",
-    "Sang-In.md",
-    "Kirugi/Zakara/Characters/NPCs/Yoenghon.md"
+    "Kirugi/Zakara/Orte/Universität/Universität.md"
   ]
 }
