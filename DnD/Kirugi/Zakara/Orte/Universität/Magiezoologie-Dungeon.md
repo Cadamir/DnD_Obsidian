@@ -82,7 +82,9 @@
 	- links: Tisch mit Schriftrollen
 	- rechts: großer halbhoher Schrank (Tisch + Lagerraum)
 	- großer Lagerraum gegenüber
-	- rechts: mittelgroßer Käfig mit sehr großen Ketten (leer) mit Tisch davor
+	- rechts: mittelgroßer Käfig mit sehr großen Ketten mit Tisch davor
+		- Baby-Psurlon liegen darin und fressen an Humanoiden
+		- [[Jirugi]] liegt dort und wird angefressen
 	- mittig: Magischer Zirkel (Portal zu verschiedenen Ebenen der Wirklichkeit)
 
 ![[Magiezoologie-Forschungsraum.png]]

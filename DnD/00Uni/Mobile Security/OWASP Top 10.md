@@ -1,0 +1,10 @@
+-   **Broken Access Control** – Fehlende oder fehlerhafte Zugriffsbeschränkungen, die es Angreifern ermöglichen, auf unautorisierte Funktionen oder Daten zuzugreifen.
+-   **Cryptographic Failures** – Unsichere Speicherung oder Übertragung sensibler Daten durch falsche oder schwache Verschlüsselung.
+-   **Injection** – Angriffe wie **SQL-Injection**, bei denen schädlicher Code in eine Anwendung eingeschleust wird.
+-   **Insecure Design** – Grundlegende Designfehler, die Sicherheitsrisiken ermöglichen, etwa fehlende Threat Modeling-Ansätze.
+-   **Security Misconfiguration** – Falsch konfigurierte Sicherheitseinstellungen, z. B. unnötig aktivierte Features oder unsichere Standardkonfigurationen.
+-   **Vulnerable and Outdated Components** – Nutzung unsicherer oder veralteter Bibliotheken und Abhängigkeiten.
+-   **Identification and Authentication Failures** – Schwache Authentifizierungsmethoden, z. B. unsichere Passwörter oder ungeschützte Sitzungsverwaltung.
+-   **Software and Data Integrity Failures** – Probleme durch ungesicherte Software-Updates, Continuous Integration Pipelines oder ungesicherte Datenquellen.
+-   **Security Logging and Monitoring Failures** – Fehlende oder unzureichende Protokollierung und Überwachung von sicherheitsrelevanten Ereignissen.
+-   **Server-Side Request Forgery (SSRF)** – Angriffe, bei denen ein Server dazu gebracht wird, ungewollte Anfragen an interne oder externe Systeme zu senden.

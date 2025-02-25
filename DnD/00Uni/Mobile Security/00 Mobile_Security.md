@@ -35,7 +35,7 @@
 - Apps aus unbekannten Quellen einfach installiert (trotz Warnung)
 - keine Datenverschlüsselung durch Nutzer
 - Geräteeigene Dienste werden gedankenlos verwendet
-- 
+
 ## Allgemeine Sicherheitsmechanismane
  ![[Schichtenarchitektur]]
  ![[Platform Security Architecture]]
@@ -46,10 +46,10 @@
 - Nutzung von EMM (Enterprise Mobility Management) für schnelle Betreuung vieler Geräte (zB. Intallationsrechte, Löschungsrechte, ...)
 
 ## Betriebssysteme
-![[Android#Betriebssystem]]
+![[Android]]
 
 ### iOS
-![[iOS#Betriebssystem]]
+![[iOS]]
 
 ## weitere Maßnahmen
 1. [[Prävention]]
@@ -57,7 +57,8 @@
 3. [[Schadensminderung]]
 4. [[sichere Einstellungen]]
 
-![[Android#Berechtigungskonzept Android]]
+
+![[OWASP Top 10]]
 
 
 # Analyse der Zugriffe auf sensible Nutzerdaten
@@ -67,23 +68,26 @@
 
 - [[DroidBox]] und [[CuckooDroid]] helfen bei Berechtigungssuche
 	- zB. nach Adressbuch oder Kontakte
+	- [[Frida]] & [[Drozer]] sind alternativen
 - Exportierte [[Acitivies]] können fehlerhafte Authentifizierung haben
 - Exportierte Content Provider und SQL-Injections
     - mit [[Drozer]]
-    - dz> run app.provider.info -a com.mwr.example.sieve -u
-- Schwachstellen bei JavaScript-Interface
-    - Webseitenanzeige innerhalb der App: *WebView*
-    - Viele Funktionen (Dateizugriff, Plugin laden, Passwortspeicher)
-    - eine Funktion: *addJavascriptInterface* -> Aus der Webseite heraus Funktionen des Smartphones/der Applikation aufrufen -> Webseitenbetreiber oder Man in the Middle können verschiedene Funktionen einfach so aufrufen
-- Ungewollter Datenabfluss durch Backup-Funktion
-    - jeder kann seine App mit Backups durch Android ausstatten
-    - dafür sind keine besonderen Rechte notwendig
-    - Backup auf ein System, dass keine Sandboxes oder Rechtekontrollen mehr hat
+    - `dz> run app.provider.info -a com.mwr.example.sieve -u`
+# Schwachstellen bei JavaScript-Interface
+- Webseitenanzeige innerhalb der App: *WebView*
+- Viele Funktionen (Dateizugriff, Plugin laden, Passwortspeicher)
+- Funktion: `addJavascriptInterface` -> Aus der Webseite heraus Funktionen eine Funktion aufrufen -> Webseitenbetreiber oder Man in the Middle können verschiedene Funktionen einfach so aufrufen
+
+# Ungewollter Datenabfluss durch Backup-Funktion
+- jeder kann seine App mit Backups durch Android ausstatten
+- dafür sind keine besonderen Rechte notwendig
+- Backup auf ein System, dass keine Sandboxes oder Rechtekontrollen mehr hat
     `adb backup -apk -shared <paketname>`
-    - Datei `backup.ab`
-    - mit *Android Backup Extractor* analysierbar
-    - jetzt ist zB die Datenbank ungesichert auf dem Rechner des Angreifers
-### Spurensuche im Dateisystem
+- Datei `backup.ab`
+- mit *Android Backup Extractor* analysierbar
+- jetzt ist zB die Datenbank ungesichert auf dem Rechner des Angreifers
+
+# Spurensuche im Dateisystem
 - Vollverschlüsselung umgehen:
     - *Full Disk Encryption (FDE)*
     - beruht auf *dmcrypt* und wird in der *data*-Partition auf Nutzerdaten angewendet

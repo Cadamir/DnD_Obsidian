@@ -55,7 +55,7 @@
 
 ## Statblock
 - **AC** : 15
-- **TP** : 17
+- **TP** : 21
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|

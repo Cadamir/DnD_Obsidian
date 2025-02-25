@@ -12,4 +12,7 @@
 	- Twisted
 	- Distro
 	- JDK11
-- 
+- Bestandteile
+	- Agent (auf Handy)
+	- Server
+	- Client (Analyserechner)

@@ -1,0 +1,2 @@
+# Verfluchte Axt
+*selten, *
