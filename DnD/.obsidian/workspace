@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "55ee92391cc2781f",
+        "id": "1ef7f7b4218adcea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Icewind Dale/SessionNotizen/SessionNotizen 25.02.2025.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "912ec3650da3ccfe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Icewind Dale/Orte/weitere Orte/Lachende Schlucht.md",
+            "file": "Icewind Dale/SessionNotizen/SessionNotizen2025.03.16.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kaget",
+                "query": "data protectio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Icewind Dale/SessionNotizen/SessionNotizen 25.02.2025.md",
+                "file": "Icewind Dale/SessionNotizen/SessionNotizen2025.03.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55ee92391cc2781f",
+  "active": "1ef7f7b4218adcea",
   "lastOpenFiles": [
-    "Icewind Dale/SessionNotizen/SessionNotizen 25.02.2025.md",
-    "Icewind Dale/Orte/weitere Orte/Lachende Schlucht.md",
-    "Icewind Dale/SessionNotizen/SessionNotizen 07.01.2025.md",
-    "Icewind Dale/SessionNotizen/z_SessionNotizen_17.12.2024.md",
-    "Icewind Dale/SessionNotizen/SessionNotizen 17.12.2024.md",
-    "Kirugi/SessionNotizen/SessionNotizen2025.02.11.md",
-    "Kirugi/SessionNotizen/SessionNotizen2025.02.02.md",
-    "Kirugi/SessionNotizen/SessionNotizen2025.01.28.md",
-    "Icewind Dale/00 Icewind Dale Kampagne.md",
-    "00Uni/Mobile Security/Frida.md"
+    "Icewind Dale/SessionNotizen/SessionNotizen2025.03.16.md",
+    "Icewind Dale/Orte/weitere Orte/Festung Sunblight.md",
+    "DM-Lehrbuch.md",
+    "Kirugi/Zakara/00 Zakara.md",
+    "Kirugi clean/Anhänger von Hadar.md",
+    "Kirugi/Zakara/Characters/NPCs/Am.md",
+    "Kirugi clean/Kirugi als Lehrbuch-Abenteuer.md",
+    "00Uni/Mobile Security/00 Mobile_Security.md",
+    "00Uni/Mobile Security/Drozer.md",
+    "00Uni/Mobile Security/Android.md"
   ]
 }
